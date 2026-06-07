@@ -1,8 +1,6 @@
 # Aviation-Emissions-Fuel-Efficiency-Analysis
 End-to-end aviation emissions and fuel efficiency analysis using Power BI, including data quality assessment, data cleaning, emissions reporting, route analysis, aircraft efficiency evaluation, and executive-level recommendations.
 
-# Aviation Emissions & Fuel Efficiency Analysis
-
 ## Project Overview
 
 This project analyzes aviation operations, fuel consumption, and emissions data to evaluate fuel efficiency, identify emissions drivers, assess data quality, and support sustainability reporting.
