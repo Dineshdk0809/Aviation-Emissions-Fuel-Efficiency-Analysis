@@ -19,6 +19,15 @@ The analysis was completed using Power BI and includes data cleaning, KPI develo
 
 ---
 
+## Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Excel
+
+  ---
+
 ## Data Cleaning & Preparation
 
 The dataset contained several data quality issues that were addressed before analysis:
@@ -76,21 +85,6 @@ The dataset contained several data quality issues that were addressed before ana
 - Implement automated data quality validation checks.
 - Strengthen sustainability reporting processes.
 
----
 
-## Tools Used
 
-- Power BI
-- Power Query
-- DAX
-- Excel
 
----
-
-## Project Files
-
-- Power BI Dashboard (.pbix)
-- Data Cleaning & Preparation Log
-- Executive Summary
-
-> Note: The original dataset is not included as it was provided as part of an assessment exercise.
